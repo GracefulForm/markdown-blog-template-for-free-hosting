@@ -1,7 +1,7 @@
 ![](http://i58.tinypic.com/2u434t5.jpg)
 # Rage of Reasoning
 ### *A blog of my thoughts and events for those who care.*
-[HOME](https://www.google.com) [ABOUT](https://www.google.com) [CONTACT](https://www.google.com)
+[HOME](https://www.google.com) | [ABOUT](https://www.google.com) | [CONTACT](https://www.google.com)
 
 ---
 ---
