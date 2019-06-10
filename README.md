@@ -1,2 +1,8 @@
-# markdown-blog-template-for-free-hosting
-This quick starter template to show how you can make your own blog or website using markdown and host it for free on places such as pen.io, Simplenote, pastebin, or private bin.
+# Markdown Blog Template for Free Hosting
+
+This quick starter template shows how you can make your own minimalist blog or website using markdown and host it for free on places such as: 
+* pen.io
+* Simplenote
+* pastebins
+* private bins
+* etc.
