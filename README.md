@@ -6,3 +6,5 @@ This quick starter template shows how you can make your own minimalist blog or w
 * pastebins
 * private bins
 * etc.
+
+![Link to CodePen](https://codepen.io/gracefulform/pen/ZdEzpX)
