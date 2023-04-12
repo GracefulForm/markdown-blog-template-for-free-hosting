@@ -1,41 +1,24 @@
-![](http://i58.tinypic.com/2u434t5.jpg)
-# Rage of Reasoning
-### *A blog of my thoughts and events for those who care.*
-[HOME](https://www.google.com) | [ABOUT](https://www.google.com) | [CONTACT](https://www.google.com)
+# Altitude Outdoor Supply
 
----
----
+###  [Home](https://#) |  [Trail Gear](https://#) |  [Pack Animal Gear](https://#) | [Pack Food](https://#) | [Contact](https://#)
 
-October 12, 2021
-## Banana Pudding Recipe
-![](http://i43.tinypic.com/4ktkb7.jpg)
+![The San Juan Mountains are beautiful!](https://mdg.imgix.net/assets/images/san-juan-mountains.jpg?auto=format&fit=clip&q=40&w=1080 "San Juan Mountains")
 
-*This recipe is easy and inexpensive. Just be sure to give it plenty of time to chill.*
+# Quality Gear for the Rugged Traveler
 
-**Ingredients**
-* 1 Box Banana Pudding Mix
-* Milk
-* 2 Bananas
-* 10 Vanilla Wafers
+Jeep trails, cattle drives, canyon mule trains, and off road adventures are best enjoyed when you don't have to worry about supply issues.  Our products are tested and reviewed by the hardiest of back road travelers. 
 
-**Steps**
-1. Mix the banana puddin mix according to directions on box.
-2. Slice bananas and stir slices into the pudding mix.
-3. Chill in refridgerator until thickened.
-4. Arrange vanilla wafers in a circle around edges of bowl & serve.
+>"When all of our saddle bags wore out from the dry brush this season, our Altitude Supply bags showed no signs of wear or quitting. Now, that's all we use." - Jake "Blackjack" Rose, Grand Canyon Trail Guide.
+> &nbsp;
+
+# Are You Prepared?
+* Unexpected Weather
+* Water Purification or Dried Up Watering Holes
+* Pack Animal Feed
+* Snakebites, Animal Bites, Insects, or Poisenous Plants
+* First Aid
+* Emergency Communication Devices
 
 ---
 
-February 31, 2028
-## Driving Through Vail
-![](http://i46.tinypic.com/2dbnsxw.jpg)
-
-Yesterday we drove through the Vail pass on our way to Denver. The roads were clear enough to drive on, but the temperature after sunset was below 18F and dropping!
-
-We made it to Denver just in time to relax in a hot tub before getting some much needed rest.
-
----
-
-March 1, 2029
-## Happy Thursday From All of Us
-Due to the holiday, we will be out of the office on Thursday and Friday. We wish all of you a happy Thursday, and many happy returns!
+Copyright &copy; 2023 Your Comany 
