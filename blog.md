@@ -1,12 +1,10 @@
 # Rage of Reasoning
 ### *A blog of my thoughts and events for those who care.*
-[HOME](https://www.google.com) | [ABOUT](https://www.google.com) | [CONTACT](https://www.google.com)
-
+### [&#127968; HOME](https://#) | [&#128589; ABOUT](https://#) | [&#128241; CONTACT](https://#)
 ---
-
-October 12, 2021
+October 12, 2024
 ## Banana Pudding Recipe
-![](http://i43.tinypic.com/4ktkb7.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/6/64/Vanilla_pudding_%281129124791%29.jpg)
 
 *This recipe is easy and inexpensive. Just be sure to give it plenty of time to chill.*
 
@@ -26,7 +24,7 @@ October 12, 2021
 
 February 31, 2028
 ## Driving Through Vail
-![](http://i46.tinypic.com/2dbnsxw.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Vail%2C_Colorado_-_street_view.jpg/640px-Vail%2C_Colorado_-_street_view.jpg)
 
 Yesterday we drove through the Vail pass on our way to Denver. The roads were clear enough to drive on, but the temperature after sunset was below 18F and dropping!
 
@@ -35,5 +33,7 @@ We made it to Denver just in time to relax in a hot tub before getting some much
 ---
 
 March 1, 2029
-## Happy Thursday From All of Us
+## Happy Thursday From All of Us  
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Night_004.jpg/640px-Night_004.jpg)
+
 Due to the holiday, we will be out of the office on Thursday and Friday. We wish all of you a happy Thursday, and many happy returns!
