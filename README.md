@@ -2,8 +2,8 @@
 
 This quick starter template shows how you can make your own minimalist blog or website using markdown and host it for free on places such as: 
 * Simplenote
+* OwnCloud / Nextcloud
 * GitHub
-* pen.io
 * pastebins
 * private bins
 * etc.
